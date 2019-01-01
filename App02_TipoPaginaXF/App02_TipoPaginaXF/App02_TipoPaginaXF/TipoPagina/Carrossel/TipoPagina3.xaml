@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App02_TipoPaginaXF.TipoPagina.Carrossel.TipoPagina3"
+             BackgroundColor="BlueViolet">
+
+    <ContentPage.Content>
+        <StackLayout Padding="50" VerticalOptions="CenterAndExpand" Spacing="30">
+
+            <Label Text="Topos de Página" TextColor="white"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand"
+                FontSize="30"/>
+
+            <Button Image="pig.png" BackgroundColor="Transparent" Clicked="MudarPagina"/>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
