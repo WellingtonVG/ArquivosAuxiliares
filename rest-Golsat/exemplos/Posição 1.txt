@@ -1,0 +1,34 @@
+{
+   "positions":[
+      {
+         "id":6726203585,
+         "placa":"OON8562",
+         "serialNumber":4634301781,
+         "coord":[
+            -22.33096,
+            -54.54086
+         ],
+         "end":"Avenida 9 de Julho , Fátima do Sul - MS",
+         "dInc":"2018-03-15T21:04:11.733Z",
+         "dPos":"2018-03-15T21:04:50Z",
+         "motorista":"",
+         "info":{
+            "odo":106.32,
+            "rpm":0,
+            "vel":0.0,
+            "ign":true,
+            "log":false,
+            "gps":true
+         },
+         "eventos":[
+            {
+               "desc":"Entrada em Área de Controle",
+               "src":true
+            }
+         ],
+         "macros":[
+
+         ]
+      }
+   ]
+}

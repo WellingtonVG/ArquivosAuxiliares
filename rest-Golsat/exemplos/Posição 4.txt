@@ -1,0 +1,34 @@
+{
+   "positions":[
+      {
+         "id":6726210436,
+         "placa":"HTJ7683",
+         "serialNumber":4634301756,
+         "coord":[
+            -22.20612,
+            -54.70676
+         ],
+         "end":"BR-163 , Dourados - MS",
+         "dInc":"2018-03-15T21:06:09.197Z",
+         "dPos":"2018-03-15T21:06:32Z",
+         "motorista":"",
+         "info":{
+            "odo":6.85,
+            "rpm":0,
+            "vel":31.0,
+            "ign":true,
+            "log":false,
+            "gps":true
+         },
+         "eventos":[
+            {
+               "desc":"Saída de Área de Controle",
+               "src":false
+            }
+         ],
+         "macros":[
+
+         ]
+      }
+   ]
+}
